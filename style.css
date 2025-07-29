@@ -26,6 +26,7 @@ body {
   max-width: 1440px;
   height: 100vh;
   display: grid;
+  margin: 0 auto;
   place-content: center;
   font-family: var(--font-family);
   background-color: var(--color-Slate-300);
